@@ -1,3 +1,7 @@
 sys
 yadri
+<<<<<<< HEAD
 ffs
+=======
+writing on remote
+>>>>>>> 7aae9c3b51553a19da4a4bfcbba73231e1892a9a
